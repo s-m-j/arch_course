@@ -1,2 +1,3 @@
-# arch_course
-Материалы по архитектурным шаблонам
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="./media/01_BASE.JPG">
+</picture>
